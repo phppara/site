@@ -158,7 +158,7 @@ body a:hover{
 .banner-left{
 	float:right;
 	width:50%;
-	margin:15em 0 0;
+	margin:9em 0 0;
 }
 .banner-info{
 	margin:18em 0 0;
@@ -181,7 +181,7 @@ body a:hover{
 	font-size:1.5em;
 	color:#B46425;
 	margin:.5em 0 1em;
-	text-transform:capitalize;
+	/*text-transform:capitalize;*/
 }
 .banner-info p{
 	color:#999;
@@ -210,6 +210,7 @@ body a:hover{
 	background:#55C3B6;
 	padding:1em;
 	margin: 0 0.5em 0 0;
+	height: 220px;
 }
 .banner-pos-grid2{
 	background:#B46425;
@@ -307,7 +308,7 @@ background: url(../images/) no-repeat -66px 0px;
 /*-- //banner --*/
 /*-- events --*/
 .events{
-	padding:10em 0 5em;
+	padding:14em 0 5em;
 }
 .mnth-date-left h4{
 	border-right:1px solid #DEDEDE;
@@ -394,7 +395,7 @@ p.quasi{
 }
 /*-- banner-bottom --*/
 .banner-bottom{
-	background:url(../images/1.jpg) no-repeat 0px 0px;
+	background:url(../images/ban_bot.jpg) no-repeat 0px 0px;
 	background-size:cover;
 	-webkit-background-size:cover;
 	-moz-background-size:cover;
@@ -609,7 +610,7 @@ ul.wmuSliderPagination {
     background: url(../images/iconsprite.png)no-repeat 6px -72px;
 }
 .social-icons ul li a.gg:hover {
-   background-color:#dd4b39;
+   background-color:#666;
 }
 .social-icons ul li a:hover {
     transform: rotatey(360deg);
