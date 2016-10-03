@@ -83,7 +83,7 @@
 			</div>
 		</div>
 	</div>
-<!-- //banner -->
+<!-- banner -->
 <!-- events -->
 	<div class="events">
 		<div class="container">
@@ -172,17 +172,56 @@
 		<div class="container">
 			<div class="wmuSlider example1">
 			    <div class="wmuSliderWrapper">
+		            <article style="position: absolute; width: 100%; opacity: 0;"> 
+		        		<div class="banner-wrap">
+		        			<div class="banner-bottom-info">
+		        				<img src="public/images/12.jpg" class="img-responsive">
+		        			</div>
+		        		</div>
+		        	</article>
 				    <article style="position: absolute; width: 100%; opacity: 0;"> 
 						<div class="banner-wrap">
 							<div class="banner-bottom-info">
-								<h3>Ambiente de desenvolvimento PHP</h3>
-								<p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum 
-									dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, 
-									sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+								<!-- <h3>Ambiente de desenvolvimento PHP</h3> -->
+								<img src="public/images/10.jpg" class="img-responsive">
 							</div>
 						</div>
 					</article>
-					
+				    <article style="position: absolute; width: 100%; opacity: 0;"> 
+						<div class="banner-wrap">
+							<div class="banner-bottom-info">
+								<img src="public/images/11.jpg" class="img-responsive">
+							</div>
+						</div>
+					</article>
+				    <article style="position: absolute; width: 100%; opacity: 0;"> 
+						<div class="banner-wrap">
+							<div class="banner-bottom-info">
+								<img src="public/images/13.jpg" class="img-responsive">
+							</div>
+						</div>
+					</article>
+				    <article style="position: absolute; width: 100%; opacity: 0;"> 
+						<div class="banner-wrap">
+							<div class="banner-bottom-info">
+								<img src="public/images/14.jpg" class="img-responsive">
+							</div>
+						</div>
+					</article>
+				    <article style="position: absolute; width: 100%; opacity: 0;"> 
+						<div class="banner-wrap">
+							<div class="banner-bottom-info">
+								<img src="public/images/15.jpg" class="img-responsive">
+							</div>
+						</div>
+					</article>
+				    <article style="position: absolute; width: 100%; opacity: 0;"> 
+						<div class="banner-wrap">
+							<div class="banner-bottom-info">
+								<img src="public/images/16.jpg" class="img-responsive">
+							</div>
+						</div>
+					</article>
 				</div>
 			</div>
 				<script src="<?php echo "http://$host"; ?>/public/js/jquery.wmuSlider.js"></script> 
@@ -204,4 +243,4 @@
 			</div>
 		</div>
 	</div>
-<!-- //testimonials -->
+<!-- //testimonials

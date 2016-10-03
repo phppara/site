@@ -11,12 +11,13 @@
 			<div class="col-md-8 contact-left">
 				<h3>Contato</h3>
 				<form>
-					<input type="text"  onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Nome';}" required="">
-					<input type="email"  onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Email';}" required="">
-					<input type="text"  onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Telefone';}" required="">
-					<textarea type="text"  onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Mensagem...';}" required="">Mensagem...</textarea>
-					<input type="submit" value="Enviar" >
+					<input type="text"  placeholder="Nome" name="nome" id="nome">
+					<input type="email"  placeholder="Email" name="email" id="email">
+					<input type="text"  placeholder="Assunto" name="assunto" id="assunto">
+					<textarea type="text"  placeholder="Mensagem..." name="mensagem" id="mensagem"></textarea>
+					<input type="button" value="Enviar" id="btn-contato" >
 				</form>
+				<div id="msg" style="margin-top: 10px;"></div>
 			</div>
 			<div class="clearfix"> </div>
 		</div>

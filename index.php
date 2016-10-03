@@ -50,7 +50,10 @@ if ($_GET) {
 						<span class="icon-bar"></span>
 					  </button>
 						<div class="logo">
-							<a class="navbar-brand" href="<?php echo "http://$host"; ?>">PHPPA.ORG <span>Grupo de desenvolvedores de PHP do estado do Pará</span></a>
+							<!-- <a class="navbar-brand" href="<?php //echo "http://$host"; ?>">PHPPA.ORG <span>Grupo de desenvolvedores de PHP do estado do Pará</span></a> -->
+							<a class="navbar-brand" href="<?php echo "http://$host"; ?>">
+								<img src="<?php echo "http://$host"; ?>/public/images/phppa.png" width="200">
+							</a>
 						</div>
 					</div>
 
@@ -114,9 +117,9 @@ else {
 			<p>Copyright © <?php echo date("Y"); ?>. Design by <a target="_blank" href="http://w3layouts.com">W3layouts</a></p>
 			<div class="social-icons">
 				<ul>
-					<li><a href="#" class="fb"></a></li>
-					<li><a href="#"></a></li>
-					<li><a href="#" class="gg"></a></li>
+					<li><a href="https://www.facebook.com/elephants.para/" target="_balnk" class="fb"></a></li>
+					<li><a href="https://twitter.com/phppara" target="_balnk"></a></li>
+					<li><a href="https://github.com/elephantspara" target="_balnk" class="gg"></a></li>
 					<li><a href="#" class="pn"></a></li>					
 				</ul>	
 			</div>
@@ -126,5 +129,17 @@ else {
 <!-- for bootstrap working -->
 		<script src="<?php echo "http://$host"; ?>/public/js/bootstrap.js"> </script>
 <!-- //for bootstrap working -->
+		<script src="<?php echo "http://$host"; ?>/public/js/funcoes.js"> </script>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-84407708-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
 </body>
 </html>
