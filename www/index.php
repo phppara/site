@@ -1,10 +1,7 @@
 <?php
 $host = $_SERVER['HTTP_HOST'];
-$host = 'http://'.$host;
+$host = 'https://'.$host;
 
-if ($host == 'phppa.org') {
-	$host = 'https://'.$host;
-}
 
 if ($_GET) {
 	$url = $_GET['cod'];
