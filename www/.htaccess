@@ -1,0 +1,14 @@
+RewriteEngine On
+
+RewriteCond %{HTTPS} !=on
+RewriteRule ^.*$ https://%{SERVER_NAME}%{REQUEST_URI} [R,L]
+
+RewriteCond %{SCRIPT_FILENAME} !-f
+RewriteCond %{SCRIPT_FILENAME} !-d
+
+
+RewriteRule ^(.*)$ ?cod=$1 [L]
+RewriteCond %{HTTP_HOST} ^phppa.org$ [OR]
+RewriteCond %{HTTP_HOST} ^www.phppa.org$
+
+

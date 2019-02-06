@@ -1,0 +1,19 @@
+version: '2'
+services:
+  nginx:
+    build: ./docker/nginx
+    ports:
+      - '8031:80'
+    depends_on:
+      - php
+    volumes:
+      - ./www:/opt/work
+    container_name: site_phppa_nginx
+  php:
+    build: ./docker/php
+    volumes:
+      - ./www:/opt/work
+    environment:
+      XDEBUG_HOST: 192.168.3.139 # CHANGE TO YOUR LOCAL IP ADDRESS!!!
+      PHP_IDE_CONFIG: "serverName=xdebug-docker"
+    container_name: site_phppa_php
