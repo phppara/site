@@ -11,7 +11,7 @@
 						<p>O objetivo da comunidade de desenvolvedores PHPPA é difundir a linguagem PHP por todo estado do Pará, aproximar programadores de nossa região, unir forças, trocar experiencias, ideias, realizando eventos para promover networking e troca de insformações.</p>
 
 					</div>
-					
+
 					<div class="clearfix"> </div>
 				</div>
 			</div>
