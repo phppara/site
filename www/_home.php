@@ -114,7 +114,7 @@
 						</div>
 						<div class="clearfix"> </div>
 						<p class="quasi">Evento de Tecnologia em Redenção PA,
-						no Country Club <a href="http://internorte.com.br" target="_blank">internorte.com.br</a>.
+						no Country Club <a href="https://internorte.com.br" target="_blank">internorte.com.br</a>.
 						</p>
 
 					</div>
@@ -257,7 +257,7 @@
 						<div class="testimonials-grids">
 							<center>
 							<p style="color: #444;">Apoiado por:</p><br>
-							<a href="http://www.hosthp.com.br" target="_blank"><img src="public/images/hosthp.png"></a>
+							<a href="https://www.hosthp.com.br" target="_blank"><img src="public/images/hosthp.png"></a>
 							</center>
 							<div class="clearfix"> </div>
 						</div>
@@ -280,7 +280,7 @@
 
 					<div class="row">
 						<div class="col-lg-3 comunidades-box">
-							<a href="https://www.meetup.com/pt-BR/PHP-Rio/"><img src="http://photos3.meetupstatic.com/photos/event/5/6/1/3/global_446962035.jpeg" height="40"></a>
+							<a href="https://www.meetup.com/pt-BR/PHP-Rio/"><img src="https://photos3.meetupstatic.com/photos/event/5/6/1/3/global_446962035.jpeg" height="40"></a>
 						</div>
 						<!-- <div class="col-lg-3 comunidades-box">
 							<a href="https://phpmg.com/"><img src="https://phpmg.com/img/logo-php.png" height="40"></a>
