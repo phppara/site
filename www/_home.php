@@ -143,6 +143,7 @@
 			<div class="row">
 
 				<div class="col-lg-6 col-md-6">
+					<h4>Fotos</h4>
 					<div id="owl-demo" class="owl-carousel owl-theme">
 						<div class="item agile-item">
 							<img src="<?php echo "$host"; ?>/public/images/10.jpg" class="encontros-w3img" alt=""/>
@@ -205,7 +206,7 @@
 						</div>
 						<div class="col-lg-10">
 						<a href="https://phpsp.org.br/artigos/5-coisas-que-um-programador-php-precisa/">
-							<h5>Título do artigo de tecnologia da galera do PHPPA</h5>
+							<h5>5 coisas que um programador PHP precisa</h5>
 							<p>PHPSP - Augusto Pascutti - 24/10/2018</p>
 						</a>
 						</div>
@@ -252,17 +253,17 @@
 	<div class="testimonials">
 		<div class="container">
 			<div class="row">
-
 				<div class="col-lg-6 col-md-6">
-						<div class="testimonials-grids">
-							<center>
-							<p style="color: #444;">Apoiado por:</p><br>
+					<h5>Apoiadores</h5>
+					<div class="row">
+						<div class="col-lg-5">
 							<a href="https://www.hosthp.com.br" target="_blank"><img src="public/images/hosthp.png"></a>
-							</center>
-							<div class="clearfix"> </div>
 						</div>
+					</div>
 				</div>
 				<div class="col-lg-6 col-md-6">
+					<h5>Comunidades</h5>
+
 					<div class="row">
 						<div class="col-lg-3 comunidades-box">
 							<a href="https://phpsp.org.br"><img src="https://phpsp.org.br/assets/images/phpsp/phpsp.png" height="40"></a>
