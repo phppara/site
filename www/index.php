@@ -3,6 +3,7 @@ $host = $_SERVER['HTTP_HOST'];
 $host = 'https://'.$host;
 
 
+
 if ($_GET) {
 	$url = $_GET['cod'];
 	$exp = explode('/', $url);

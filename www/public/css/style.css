@@ -157,7 +157,7 @@ body a:hover{
 }
 
 #owl-demo {
-    margin-top: 50px;
+    margin-top: 35px;
 }
 
 .banner{
@@ -458,13 +458,23 @@ p.quasi{
 
 /*-- //wmuslider --*/
 /*-- testimonials --*/
-.testimonials,.blog,.typo,.featured-services,.additional-services,.sevices,.contact{
+.blog,.typo,.featured-services,.additional-services,.sevices,.contact{
 	padding:5em 0;
 }
+
+.testimonials{
+    padding:1em 0;
+}
+
 .testimonials h3,h3.title,.featured-services h3,.additional-services h3,.sevices h3, .banner-bottom h3{
 	font-size:2.5em;
 	color:#55C3B6;
 	margin:0;
+}
+.testimonials h5{
+    font-size:1.1em;
+    color:#55C3B6;
+    margin:0 0 3em 0;
 }
 .testimonials-grids{
 	margin:3em 0 0;
@@ -493,6 +503,7 @@ p.quasi{
 	font-size:1.5em;
 	margin:1em 0 0;
 }
+
 /*-- //testimonials --*/
 /*-- footer --*/
 .footer {
