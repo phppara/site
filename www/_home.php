@@ -91,6 +91,21 @@
 				<div class="col-md-4 events-grid">
 					<div class="mnth-date">
 						<div class="col-xs-5 mnth-date-left">
+							<h4>11<span>Abril</span></h4>
+						</div>
+						<div class="col-xs-7 mnth-date-right">
+							<p>Meetup PHP 2019</p>
+						</div>
+						<div class="clearfix"> </div>
+						<p class="quasi">
+							Nosso meetup começará as 19:00 horas na UniCesumar. Em Redenção Pará
+						</p>
+
+					</div>
+				</div>
+				<div class="col-md-4 events-grid">
+					<div class="mnth-date">
+						<div class="col-xs-5 mnth-date-left">
 							<h4>07-09<span>Junho</span></h4>
 						</div>
 						<div class="col-xs-7 mnth-date-right">
@@ -100,21 +115,6 @@
 						<p class="quasi">
 							<a href="https://php.darkmiratour.rocks/2019/">Darkmira Tour PHP.</a>
 						O evento imperdível sobre Segurança e qualidade nos ecossistemas PHP em Fortaleza/CE.
-						</p>
-
-					</div>
-				</div>
-				<div class="col-md-4 events-grid">
-					<div class="mnth-date">
-						<div class="col-xs-5 mnth-date-left">
-							<h4>11 e 12<span>Novembro</span></h4>
-						</div>
-						<div class="col-xs-7 mnth-date-right">
-							<p>Internorte 2016</p>
-						</div>
-						<div class="clearfix"> </div>
-						<p class="quasi">Evento de Tecnologia em Redenção PA,
-						no Country Club <a href="https://internorte.com.br" target="_blank">internorte.com.br</a>.
 						</p>
 
 					</div>
