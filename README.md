@@ -17,8 +17,15 @@ A paixão que nos envolve é a de sempre aprender, ensinar, conversar e debater 
 
 O objetivo da comunidade de desenvolvedores PHPPA é difundir a linguagem PHP por todo estado do Pará, aproximar programadores de nossa região, unir forças, trocar experiencias, ideias, realizando eventos para promover networking e troca de insformações.
 
-## SITE PHPPA!
+## ACOMPANHE A COMUNIDADE PHPPA
 
-- [Site PHPPA](https://phppa.org/)
+*   Site comunidade PHPPA: (https://phppa.org/)
+*   Facebook:[@elephants.para] (https://www.facebook.com/elephants.para/)
+*   Twitter:[@phppara] (https://twitter.com/phppara) 
+*   GitHub:[@phppara] (hhttps://github.com/phppara/)
+
+
+
+
 
 
