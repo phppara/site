@@ -1,4 +1,4 @@
-![PHPPA Logo!](/phppa-logo.png?raw=true)
+![PHPPA Logo!](/phppara-logo.png?raw=true)
 
 ## O que é?
 
@@ -23,6 +23,8 @@ O objetivo da comunidade de desenvolvedores PHPPA é difundir a linguagem PHP po
 *   Facebook:[@elephants.para] (https://www.facebook.com/elephants.para/)
 *   Twitter:[@phppara] (https://twitter.com/phppara) 
 *   GitHub:[@phppara] (https://github.com/phppara/) 
+
+
 
 
 
