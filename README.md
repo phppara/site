@@ -22,7 +22,8 @@ O objetivo da comunidade de desenvolvedores PHPPA é difundir a linguagem PHP po
 *   Site comunidade PHPPA: (https://phppa.org/)
 *   Facebook:[@elephants.para] (https://www.facebook.com/elephants.para/)
 *   Twitter:[@phppara] (https://twitter.com/phppara) 
-*   GitHub:[@phppara] (hhttps://github.com/phppara/)
+*   GitHub:[@phppara] (https://github.com/phppara/) 
+
 
 
 
